@@ -8,7 +8,7 @@
 ![Image](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/blob/master/Gen_Model.jpg)
 
 ## Discriminator Model  - Test
-![](/Disc_Model.jpg)
+![Image](/Disc_Model.jpg)
 
 ## The network is trained for 50 Epochs and result is given below as GIF  
 ![](https://raynierraja.github.io/MNIST-Generative-Adversial-Network/blob/master/MNIST_DCGAN_GIF.gif)
