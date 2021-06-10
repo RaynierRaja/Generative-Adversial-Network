@@ -1,5 +1,18 @@
 ## Welcome to GitHub Pages
 
+# MNIST Generative-Adversial-Network
+
+## This project is to design a simple GAN which can randomly generate hand written digits.  
+
+## Generator Model  
+![](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/blob/master/Gen_Model.jpg)
+
+## Discriminator Model  
+![](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/blob/master/Disc_Model.jpg)
+
+## The network is trained for 50 Epochs and result is given below as GIF  
+![](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/blob/master/MNIST_DCGAN_GIF.gif)
+
 You can use the [editor on GitHub](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
