@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pagesssssss
 
 # MNIST Generative-Adversial-Network
 
@@ -7,11 +7,11 @@
 ## Generator Model  
 ![](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/blob/master/Gen_Model.jpg)
 
-## Discriminator Model  
-![](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/blob/master/Disc_Model.jpg)
+## Discriminator Model  - Test
+![](https://raynierraja.github.io/MNIST-Generative-Adversial-Network/blob/master/Disc_Model.jpg)
 
 ## The network is trained for 50 Epochs and result is given below as GIF  
-![](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/blob/master/MNIST_DCGAN_GIF.gif)
+![](https://raynierraja.github.io/MNIST-Generative-Adversial-Network/blob/master/MNIST_DCGAN_GIF.gif)
 
 You can use the [editor on GitHub](https://github.com/RaynierRaja/MNIST-Generative-Adversial-Network/edit/master/docs/index.md) to maintain and preview the content for your website in Markdown files.
 
