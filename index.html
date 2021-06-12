@@ -3,16 +3,35 @@
    <head>
       <title>MNIST GAN</title>
       <style>
-         h1 {text-align: center;}
-         p {text-align: center;}
-         div {text-align: center;}
+         h1 {text-align: center; color: rgb(204, 52, 32); font-family: garamond, Helvetica, serif}
+         h2 {text-align: center; color: black; font-family: garamond, Helvetica, serif}
+         h3 {text-align: center; color: black; font-family: "Lucida Console", "Courier New", monospace}
+         img {
+               display: block;
+               margin-left: auto;
+               margin-right: auto;
+            }
+         * { box-sizing: border-box;}
+         .column {float: left; width: 50%; padding: 5px;}
+         .row::after { content: ""; clear: both; display: table; }
       </style>
    </head>
 
    <body>
-      <h1>The Discriminator Model</h1>
-      <img src="Disc_Model.jpg" alt="Simply Easy Learning" width="600" height="600">
-      <h2>The Generator Model</h2>
-      <img src="Gen_Model.jpg" alt="Simply Easy Learning" width="600" height="600">
+      <h1 style="border:2px solid Tomato;">Generative Adeverisal Network To Generate Hand Written Digits</h1>
+      <h3>
+         This project is to design a simple GAN network using Tensorflow and Keras for hand written digits.
+         The architecture of the discriminator and generator are given below. 
+      </h3>
+      <div class="row">
+         <div class="column">
+            <img src="Disc_Model.jpg" alt="Discriminator" width = 600 height = 600>
+         </div>
+         <div class="column">
+            <img src="Gen_Model.jpg" alt="Generator" width = 600 height = 600>
+         </div>
+       </div>
+       <h3>The network is trained for 50 Epochs and the generators result for every epoch is given below as a GIF</h3>
+       <img src="MNIST_DCGAN_GIF.gif" alt="Generator" width = 600 height = 600>
    </body>
 </html>
